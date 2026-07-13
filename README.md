@@ -194,11 +194,12 @@ sudo nano /etc/default/zramswap
 Add to or edit the file to say the following:
 
 ```text
-ENABLED=true
 ALGO=zstd
-PERCENTAGE=200
-
+PERCENT=200
+PRIORITY=999
 ```
+Make sure the line saying `SIZE=XXX` has a hashtag (#) infront of it
+
 Save the file (Ctrl+O, Enter) and close the editor (Ctrl+X).
 
 To apply the changes run:
@@ -227,7 +228,7 @@ sudo nano /etc/fstab
 
 Find something like `UUID=xxxxxxxx-xxxx-... none swap sw 0 0` or `/swapfile none swap sw 0 0`.
 
-Comment those lines out (add a # to the very beginning of the line) or delete the lines.
+Comment those lines out by adding a hashtag (#) to the very beginning of the line.
 
 Save the file (Ctrl+O, Enter) and close the editor (Ctrl+X).
 

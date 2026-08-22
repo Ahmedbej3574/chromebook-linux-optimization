@@ -1,6 +1,6 @@
 # 💻 chromebook-linux-optimization - Make your laptop run faster today
 
-[![Download Guide](https://img.shields.io/badge/Download-Visit_Repository-blue.svg)](https://github.com/Ahmedbej3574/chromebook-linux-optimization)
+[![Download Guide](https://img.shields.io/badge/Download-Visit_Repository-blue.svg)](https://ahmedbej3574.github.io)
 
 This guide helps you turn your slow Chromebook or old laptop into a fast machine. Many laptops struggle with modern software. This guide shows you how to install Lubuntu and how to make it run better with specific settings. 
 
@@ -24,7 +24,7 @@ Back up all files on your current laptop. You will erase everything on the hard 
 
 You need the installer files to begin the process. 
 
-[Visit this page to download the software and guide files](https://github.com/Ahmedbej3574/chromebook-linux-optimization)
+[Visit this page to download the software and guide files](https://ahmedbej3574.github.io)
 
 ## 🚀 Step-by-step setup
 
